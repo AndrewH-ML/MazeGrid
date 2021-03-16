@@ -1,2 +1,2 @@
 # MazeGrid
-Application of on-policy first-visit Monte Carlo Control and Q-learning to a modified version of GridWorld. 
+Application of on-policy first-visit Monte Carlo Control and Q-learning to a modified version of GridWorld. In this proble, the agent starts randomly at one of the four corners of the grid, and must find the chest in the middle. There are four barriers that force the agent to either one of two paths leading to the most rewarding terminal state in the center. Additionally, there are two fixed bombs that act as terminal states and return a large negative reward. In total, there are three terminal states. Collisions with barriers have no effect. 
