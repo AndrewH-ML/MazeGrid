@@ -4,4 +4,5 @@ Application of on-policy first-visit Monte Carlo Control and Q-learning to a mod
 I provided code to implement GridMaze with a nine-by-nine grid. Running the code will make it evident that Q-learning is more suitable for this problem, since updates are done at each time step within the episode, and convergence to the optimal state-values is much faster. Monte-Carlo takes is much more computationally expensive. 
 
 
-**** The approproate file to run is Cogs182FinalProject.ipynb
+**** The approproate file to run is Cogs182FinalProject.ipynb. The other files are old and won't produce the same results
+
